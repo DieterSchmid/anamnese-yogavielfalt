@@ -1,6 +1,6 @@
 # Ernährungsanamnese & Analyse (Vite + React + TypeScript + Tailwind)
 
-Eine lauffähige Web‑App zum Ausfüllen eines kombinierten Fragebogens (inkl. **MNA‑SF** Punkte‑Eingabe, **TFEQ‑R18** Likert 1–4, **3‑Tage‑Ernährungsprotokoll**) und zur Erstellung einer **Auswertung mit ausführlichen, personalisierten Empfehlungen**. Patientendaten (Vorname, Alter, Größe, Gewicht, Beruf) werden **qualitativ** berücksichtigt (Kontext-Hinweise, BMI).
+Eine Web‑App von Yogavielfalt zum Ausfüllen eines kombinierten Fragebogens (inkl. **MNA‑SF** Punkte‑Eingabe, **TFEQ‑R18** Likert 1–4, **3‑Tage‑Ernährungsprotokoll**) und zur Erstellung einer **Auswertung mit ausführlichen, personalisierten Empfehlungen**. Patientendaten (Vorname, Alter, Größe, Gewicht, Beruf) werden **qualitativ** berücksichtigt (Kontext-Hinweise, BMI).
 
 > **Hinweis:** Der Original‑Wortlaut lizenzierter Fragebögen ist **nicht** enthalten. Trage Punkte (MNA‑SF) bzw. Likert‑Antworten (TFEQ‑R18) ein. Inhalte dienen der Information und ersetzen keine medizinische Beratung.
 
